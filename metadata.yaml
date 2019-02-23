@@ -1,5 +1,5 @@
 _repo: The-Works-of-William-Harvey-MD-Translated-from-the-Latin-with-a-life-of-the-author_58857
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Willis, Robert
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1878
     gutenberg_agent_id: '47774'
     url: http://www.gutenberg.org/2009/agents/47774
+covers:
+- cover_type: archival
+  image_path: 58857-h/images/cover.jpg
 creator:
   author:
     agent_name: Harvey, William Fryer
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5882
     wikipedia: http://en.wikipedia.org/wiki/W._F._Harvey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58857#The-Works-of-William-Harvey-MD-Translated-from-the-Latin-with-a-life-of-the-author
 gutenberg_issued: '2019-02-10'
 gutenberg_type: Text
 identifiers:
